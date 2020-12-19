@@ -8,5 +8,5 @@ we want to learn teamwork together and Understand how GIT work too
 
 - Naeim Ahmadian
 - Javad Asghari
-- Faezeh Golestani
+- Faezeh Golestaniiii
 - Negar Alizadeh
