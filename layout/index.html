@@ -1,23 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <title></title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="../assets/css/style.css" rel="stylesheet">
-    <link type="text/javascript" href="../assets/js/global.js">
     <link href="../node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/style.css" rel="stylesheet">
+    <script src="../assets/js/global.js"></script>
+    <script type="text/javascript" src="../assets/js/loadHtmlFile.js" ></script>
 </head>
-
-<body>
-    <h1>fundamental test</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime minima nihil nobis quam tempora. Architecto aut,
-        doloremque earum, fugit ipsum minima nemo nesciunt obcaecati omnis placeat, praesentium quam recusandae sunt?
-    </p>
-    <button type="button" class="btn btn-secondary">Secondary</button>
-    <button type="button" class="btn btn-primary">Primary</button>
-    <div class="test">test color of sass</div>
+<body dir="rtl">
+    <div w3-include-html="../structure/header.html"></div>
+    <div w3-include-html="../structure/importantProjects.html"></div>
+    <div w3-include-html="../structure/content/index.html"></div>
+    <div w3-include-html="../structure/footer.html"></div>
 </body>
+<script>
+    includeHTML();
+</script>
 </html>
