@@ -20,33 +20,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2a17abe-9fad-43c7-b865-a7d253c86139" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/structure/content/partials/leftContent/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/chooseEditor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/mainSlider.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/topSlider.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structure/content/partials/rightContent/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/lastImportantNews.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/lastImportantNewsBox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/notes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/textAdvertising.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure/chooseEditor.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/loadHtmlFile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure/importantProjects.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/importantProjects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure/lastImportantNews.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure/lastImportantNewsBox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure/mainSlider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure/notes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure/textAdvertising.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure/topSlider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure/video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_button-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_gradients.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/content/partials/leftContent/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/partials/leftContent/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/chooseEditor.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/chooseEditor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/mainSlider.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/mainSlider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/topSlider.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/topSlider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/content/partials/rightContent/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/partials/rightContent/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/lastImportantNews.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/lastImportantNews.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/lastImportantNewsBox.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/mostSeen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/note.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/content/partials/rightContent/partials/textAdvertising.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/content/partials/leftContent/partials/textAdvertising.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +98,7 @@
       <workItem from="1608240059184" duration="1611000" />
       <workItem from="1608276187385" duration="5422000" />
       <workItem from="1608349037469" duration="69000" />
-      <workItem from="1608466885242" duration="10650000" />
+      <workItem from="1608466885242" duration="12788000" />
     </task>
     <servers />
   </component>
@@ -114,10 +118,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608279954870">
+    <state x="452" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608484453938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="452" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1608279954870" />
+    <state x="452" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1608484453938" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608482199623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
