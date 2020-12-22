@@ -2,6 +2,11 @@
   background-color: #6e1a06;
 }
 
+.cus-navbar-img {
+  width: 182px;
+  justify-content: space-between;
+}
+
 .test {
   background-color: #7FFFD4;
   font-size: 14px;
