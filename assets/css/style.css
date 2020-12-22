@@ -8,4 +8,16 @@
   border: 1px dashed #333;
 }
 
+@font-face {
+  font-family: IRANSans;
+  src: url("../../css/fonts/Iranian Sans.ttf");
+}
+body {
+  background-color: #f2f2f2;
+  font-family: IRANSans;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: right;
+}
+
 /*# sourceMappingURL=style.css.map */
