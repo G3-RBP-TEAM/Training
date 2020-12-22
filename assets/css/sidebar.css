@@ -1,0 +1,60 @@
+.white-box {
+    background: #fff;
+}
+
+.holder-title {
+    border-bottom: 1px solid #ccc;
+}
+
+.holder-title a {
+    text-decoration: none;
+}
+
+.holder-title a .title {
+    font-size: 1.3em;
+    color: #000;
+    margin-bottom: 0;
+    padding: 1em 1.4em;
+    position: relative;
+    font-weight: 900;
+}
+
+.holder-title a .title::before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    background: #cd2026;
+    position: absolute;
+    top: 50%;
+    right: 8px;
+    transform: translateY(-50%);
+}
+
+.last-news .item {
+    position: relative;
+}
+
+.last-news .item a {
+    text-decoration: none;
+    font-size: 1em;
+    color: #000;
+}
+
+.last-news .item::before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #cd2026;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.last-news .item:hover a {
+    color: #cd2026;
+}
+
+
+/*# sourceMappingURL=sidebar.css.map */

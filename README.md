@@ -1,4 +1,4 @@
-# tutorial
+# Training
 
 **This project created for "Group-3".**
 
@@ -8,5 +8,5 @@ we want to learn teamwork together and Understand how GIT work too
 
 - Naeim Ahmadian
 - Javad Asghari
-- faezeh golestani
+- Faezeh Golestani
 - Negar Alizadeh
