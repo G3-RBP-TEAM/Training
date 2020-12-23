@@ -1,0 +1,99 @@
+    .white-box {
+        background: #fff;
+    }
+    
+    .holder-title {
+        border-bottom: 1px solid #ccc;
+        a {
+            text-decoration: none;
+            .title {
+                font-size: 1.3em;
+                color: #000;
+                margin-bottom: 0;
+                padding: 1em 1.4em;
+                position: relative;
+                font-weight: 900;
+                &::before {
+                    content: "";
+                    width: 8px;
+                    height: 8px;
+                    background: #cd2026;
+                    position: absolute;
+                    top: 50%;
+                    right: 8px;
+                    transform: translateY(-50%);
+                }
+            }
+        }
+    }
+    
+    .last-news {
+        .item {
+            position: relative;
+            a {
+                text-decoration: none;
+                font-size: 1em;
+                color: #000;
+            }
+            &::before {
+                content: "";
+                width: 8px;
+                height: 8px;
+                border-radius: 50%;
+                background: #cd2026;
+                position: absolute;
+                top: 50%;
+                right: 0;
+                transform: translateY(-50%);
+            }
+            &:hover {
+                a {
+                    color: #cd2026;
+                }
+            }
+        }
+    }
+    
+    .note {
+        .list-news {
+            .img {
+                img {
+                    border-radius: 50%;
+                    &:hover {
+                        filter: contrast(1.5);
+                    }
+                }
+            }
+            .text {
+                a {
+                    text-decoration: none;
+                    .author {
+                        text-decoration: none;
+                        font-size: 0.9em;
+                        position: relative;
+                        color: rgb(58, 58, 58);
+                        padding-right: 15px;
+                        &:before {
+                            content: "";
+                            width: 5px;
+                            height: 5px;
+                            border-radius: 50%;
+                            background: #cd2026;
+                            position: absolute;
+                            top: 50%;
+                            right: 0;
+                        }
+                    }
+                    .title {
+                        text-decoration: none;
+                        font-size: 1.3em;
+                        font-weight: 900;
+                        color: #000;
+                        &:hover {
+                            color: #cd2026;
+                        }
+                    }
+                }
+            }
+        }
+    }
