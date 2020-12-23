@@ -1,5 +1,42 @@
 .header {
   background-color: #6e1a06;
+  font-weight: 300;
+}
+.header div a {
+  cursor: pointer;
+}
+.header div a .nav-img {
+  position: absolute;
+  top: -3px;
+}
+.header div a div h5 {
+  margin-right: 77px;
+}
+.header nav ul {
+  font-size: 0.9rem;
+}
+.header nav ul li:not(:last-child) {
+  border-bottom: 4px solid transparent;
+}
+.header nav ul li:not(:last-child):hover {
+  border-bottom: 4px solid white;
+}
+.header nav ul li {
+  cursor: pointer;
+  padding: 9px 2px;
+}
+.header nav ul li:last-child i {
+  border-radius: 100%;
+  padding: 5px;
+  font-size: 19px;
+  position: absolute;
+  top: 22%;
+}
+.header nav ul li:last-child i:hover {
+  background-color: white;
+  color: black;
+  font-size: 12px;
+  padding: 9px;
 }
 
 .cus-navbar-img {

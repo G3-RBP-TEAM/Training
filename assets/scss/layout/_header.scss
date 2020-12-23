@@ -1,11 +1,59 @@
 @import "../abstracts/variables";
 @import "../abstracts/functions";
 
-.header{
-  background-color: nth($dark-red,1);
+.header {
+  background-color: nth($dark-red, 1);
+  font-weight: 300;
+
+  div {
+    a {
+      cursor: pointer;
+      .nav-img {
+        position: absolute;
+        top: -3px;
+      }
+      div{
+        h5{
+          margin-right: 77px;
+        }
+      }
+    }
+  }
+
+  nav {
+    ul {
+      font-size: .9rem;
+      li:not(:last-child){
+        border-bottom: 4px solid transparent;
+        &:hover {
+          border-bottom: 4px solid white;
+        }
+      }
+      li {
+        cursor: pointer;
+        padding: 9px 2px;
+      }
+      li:last-child{
+        i{
+          border-radius: 100%;
+          padding: 5px;
+          font-size: 19px;
+          position: absolute;
+          top: 22%;
+          &:hover{
+            background-color: white;
+            color: black;
+            font-size: 12px;
+            padding: 9px;
+          }
+        }
+      }
+    }
+  }
+
 }
 
-.cus-navbar-img{
-  width:182px;
+.cus-navbar-img {
+  width: 182px;
   justify-content: space-between;
 }
