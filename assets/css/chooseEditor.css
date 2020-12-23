@@ -1,0 +1,57 @@
+.editor-box-title-container {
+  position: relative;
+  padding-right: 35px;
+}
+.editor-box-title-container h3 {
+  margin: 0;
+}
+.editor-box-title-container h3::before {
+  content: "";
+  width: 15px;
+  height: 15px;
+  background: #cd2026;
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  transform: translateY(-50%);
+}
+
+.editor-box {
+  padding: 0 7px;
+}
+.editor-box img:hover {
+  filter: contrast(1.5);
+}
+.editor-box .editor-news-container .editor-news-title a {
+  color: #000;
+  text-decoration: none;
+  font-size: 1.1em;
+  font-weight: 900;
+}
+.editor-box .editor-news-container .editor-news-title a:hover {
+  color: #cd2026;
+}
+.editor-box .editor-news-container .list-styled li {
+  position: relative;
+  list-style: none;
+  padding-right: 1rem;
+}
+.editor-box .editor-news-container .list-styled li a {
+  color: #000;
+  text-decoration: none;
+}
+.editor-box .editor-news-container .list-styled li a:hover {
+  color: #cd2026;
+}
+.editor-box .editor-news-container .list-styled li:before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: 6px;
+  height: 6px;
+  background-color: #cd2026;
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=chooseEditor.css.map */
